@@ -1,0 +1,31 @@
+p,
+h1,
+h2,
+h3,
+h4,
+ul,
+a
+{
+    color: blue;
+    font-size:100px;
+    text-align: center;
+}
+
+html{
+    background-color: #bee7f5;
+}
+
+body{
+    width:3000px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 30px solid white
+}
+
+img{
+    width: 2000px;
+    height:auto;
+    display:block;
+    margin:auto;
+}
+
